@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/GitHub-gisumit-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/sumitingole">
+<a href="https://www.linkedin.com/in/sumit-ingole-429424240/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
